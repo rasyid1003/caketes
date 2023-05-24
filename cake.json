@@ -1,0 +1,308 @@
+[
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Tanggerang",
+        "golongan": "Tanggerang",
+        "jumlah": "2",
+        "tarif_pemakaian": 5000,
+        "total_tagihan": 185000
+    },
+    {
+        "nama": "asdasd",
+        "nomor": "234234",
+        "lokasi": "Tanggerang",
+        "golongan": "Tanggerang",
+        "jumlah": "4",
+        "tarif_pemakaian": 5000,
+        "total_tagihan": 365000
+    },
+    {
+        "nama": "asdasd",
+        "nomor": "234234",
+        "lokasi": "Tanggerang",
+        "golongan": "Tanggerang",
+        "jumlah": "4",
+        "tarif_ongkir": 5000,
+        "total_tagihan": 365000
+    },
+    {
+        "nama": "asdasd",
+        "nomor": "234234",
+        "lokasi": "Tanggerang",
+        "golongan": "Tanggerang",
+        "jumlah": "4",
+        "tarif_ongkir": 5000,
+        "total_tagihan": 365000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "2",
+        "tarif_ongkir": 10000,
+        "total_tagihan": 190000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "2",
+        "tarif_ongkir": 10000,
+        "total_tagihan": 190000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Bogor",
+        "golongan": "Bogor",
+        "jumlah": "3",
+        "tarif_pemakaian": 10000,
+        "total_tagihan": 280000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "498694",
+        "lokasi": "Depok",
+        "golongan": "Depok",
+        "jumlah": "3",
+        "tarif_pemakaian": 0,
+        "total_tagihan": 270000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "498694",
+        "lokasi": "Depok",
+        "golongan": "Depok",
+        "jumlah": "3",
+        "tarif_pemakaian": 0,
+        "total_tagihan": 270000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "23423",
+        "lokasi": "Tanggerang",
+        "golongan": "Tanggerang",
+        "jumlah": "2",
+        "tarif_pemakaian": 5000,
+        "total_tagihan": 185000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "213123",
+        "lokasi": "Bekasi",
+        "golongan": "Bekasi",
+        "jumlah": "4",
+        "tarif_pemakaian": 0,
+        "total_tagihan": 360000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "45645645",
+        "lokasi": "Depok",
+        "golongan": "Depok",
+        "jumlah": "3",
+        "tarif_pemakaian": 0,
+        "total_tagihan": 270000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Tanggerang",
+        "golongan": "Tanggerang",
+        "jumlah": "12",
+        "tarif_pemakaian": 5000,
+        "total_tagihan": 1085000
+    },
+    {
+        "nama": "Fugit nisi est labo",
+        "nomor": "Est ut quis eu do a ",
+        "lokasi": "Tanggerang",
+        "golongan": "Tanggerang",
+        "jumlah": "12",
+        "tarif_pemakaian": 5000,
+        "total_tagihan": 1085000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Jakarta",
+        "golongan": "Jakarta",
+        "jumlah": "2",
+        "tarif_pemakaian": 0,
+        "total_tagihan": 180000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Jakarta",
+        "golongan": "Jakarta",
+        "jumlah": "2",
+        "tarif_pemakaian": 0,
+        "total_tagihan": 180000
+    },
+    {
+        "nama": "Faris Rasyid",
+        "nomor": "12344321",
+        "lokasi": "Jakarta",
+        "golongan": "Jakarta",
+        "jumlah": "2",
+        "tarif_pemakaian": 0,
+        "total_tagihan": 180000
+    }
+]

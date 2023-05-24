@@ -1,0 +1,25 @@
+<table>
+	<thead>
+		<tr>
+			<th>Nama</th>
+			<th>Nomor</th>
+			<th>Lokasi</th>
+			<th>Jumlah</th>
+			<th>Tarif Pemakaian</th>
+			<th>Total Tagihan</th>
+		</tr>
+	</thead>
+	<tbody>
+		<?php foreach ($array_data as $data) { ?>
+			<tr>
+				<td><?php echo $data["nama"]; ?></td>
+				<td><?php echo $data["nomor"]; ?></td>
+				<td><?php echo $data["lokasi"]; ?></td>
+				<td><?php echo $data["jumlah"]; ?></td>
+				<td><?php echo $data["tarif_dasar"] + $tarif_ongkir[$data["lokasi"]]; ?></td>
+				<td><?php echo $data["total_tagihan"]; ?></td>
+			</tr>
+		<?php } ?>
+	</tbody>
+</table>
+<?php } ?>
